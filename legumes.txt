@@ -1,2 +1,4 @@
 courgettes
 aubergines
+navet
+poivrons
