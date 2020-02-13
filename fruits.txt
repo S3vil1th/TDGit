@@ -3,3 +3,4 @@ poire
 abricot
 peche 
 nectarine
+noix de coco
