@@ -1,5 +1,10 @@
 banane
-abricot 
+<<<<<<< HEAD
+abricot
+=======
+raisin
+tomate
+>>>>>>> ce3777fbb9689bac923418fbc6f31c108647a649
 nectarine
 noix de coco
 grenade
