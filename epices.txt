@@ -1,2 +1,4 @@
 safran
 poivre
+curry
+curcuma
