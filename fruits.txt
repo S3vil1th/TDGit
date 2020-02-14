@@ -1,6 +1,7 @@
 banane
-poire
-abricot
-peche 
+abricot 
 nectarine
 noix de coco
+grenade
+framboise
+prune
