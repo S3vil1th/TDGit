@@ -1,6 +1,6 @@
 banane
-poire
+raisin
 abricot
-peche 
+tomate
 nectarine
 noix de coco
