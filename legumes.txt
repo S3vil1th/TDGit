@@ -1,8 +1,10 @@
-courgettes
+carotte
 aubergines
 
 navet
-poivrons
+poireau
 
-tartampion
+concombre
+haricots
 
+citrouille
